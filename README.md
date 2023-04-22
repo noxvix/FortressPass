@@ -2,7 +2,6 @@
 
 FortressPass is an intelligent password strength evaluator that assesses the security of your passwords, providing insightful feedback and warnings. Stay ahead of potential breaches by ensuring your passwords are rock-solid with FortressPass!
 
-![FortressPass Demo](demo.png)
 
 ## Features
 
